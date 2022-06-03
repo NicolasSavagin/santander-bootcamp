@@ -1,0 +1,42 @@
+body {
+    background: black;
+    font-family: Verdana;
+}
+
+.photo {
+    border: 3px solid lime;
+    border-radius: 50px;
+    margin-left: 580px;
+}
+#title{
+    color: lime;
+    text-transform: uppercase;
+    text-align: center;
+}
+a{
+    color: lime;
+}
+.subtitle{
+    color: lime;
+    text-align: center;
+}
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    color: lime;
+}
+.post {
+    padding: 10px;
+    border: 3px solid lime;
+    margin-left: 60px;
+    margin-right: 200px;
+    color: lime;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.list{
+    list-style-type: none;
+    padding-left: 15px;
+    text-align: center;
+}
